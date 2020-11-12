@@ -22,7 +22,6 @@ C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\portfolio.
 C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\portfolio.RazorCoreGenerate.cache
 C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -33,3 +32,4 @@ C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\portfolio.
 C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\portfolio.dll
 C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\portfolio.pdb
 C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\portfolio.csproj.CopyComplete
+C:\Users\Eli\source\repos\portfolio\portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
